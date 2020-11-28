@@ -10,4 +10,4 @@ Description:
 * Work with the program calculus knowledge about recursive programming using catamorphisms, anamorphisms,...;
 * Work with the package Gloss to visualize some results from those programs.
 
-University of Minho, Software Engeneering [2º year].
+University of Minho, Software Engineering [2º year].
